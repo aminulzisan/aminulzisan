@@ -69,7 +69,8 @@ I'm a dedicated web developer with over **5+ years of experience** specializing 
 | 🛡️ **Facebook Security Tooling** | A Red Team automation script highlighting session hijacking concepts by dynamically handling browser cookies for parallel API executions. | JavaScript, Automation | [GitHub](https://github.com/aminulzisan/Facebook-Mass-Report) |
 | 🛍️ **MyShop E-Commerce** | A complete e-commerce platform featuring secure real-time inventory tracking, Steadfast API payment integrations, and order scaling. | Node.js, MongoDB | [Live Site](https://ecom.remoud.com) |
 | 💱 **OroSwap** | A decentralized finance (DeFi) trading bot optimized for executing rapid, secure token swaps on the blockchain. | JavaScript, Web3 | Private Repo |
-| 🤖 **Telegram Media Bots** | A suite of automated Telegram bots for seamlessly downloading media from Pinterest, Instagram, and Facebook. | JavaScript, Telegram API | Private Repo |
+| 🤖 **Facebook & Instagram Video Downloader** | Download Facebook & Instagram videos, reels, and photos instantly via Telegram. Fast, simple, and free to use. | JavaScript, Telegram API | [@fbinstadownloader_bot](https://t.me/fbinstadownloader_bot) |
+| 📍 **Pinterest Video Downloader** | An automated Telegram bot for seamlessly downloading high-quality media directly from Pinterest. | JavaScript, Telegram API | [@pinterest_video_downloaderbot](https://t.me/pinterest_video_downloaderbot) |
 
 ---
 
