@@ -65,7 +65,14 @@ I'm a dedicated web developer with over **5+ years of experience** specializing 
 | 📧 **[Remoud.com](https://remoud.com)** | A fast PaaS cloud hosting platform similar to Zeeploy, featuring a robust built-in business mail server with custom domain-to-email capabilities. | Node.js, Docker, Mail Server, Cloud | [Live Site](https://remoud.com) |
 | 🌩️ **[Zeeploy.xyz](https://zeeploy.xyz)** | A modern PaaS cloud hosting platform that simplifies app deployment and auto-scaling via Kubernetes. | Node.js, Docker, Kubernetes, Cloud | [GitHub](https://github.com/aminulzisan) / [Live Site](https://zeeploy.xyz) |
 | 🤖 **Zsan AI** | A smart AI chatbot that communicates contextually and dynamically generates images based on your ideas. | HTML/CSS, JS, Express.js | Live Demo |
+<<<<<<< Updated upstream
 | 🧩 **Browser Extensions Showcase** | A curated collection of powerful privacy-focused extensions enhancing productivity and web experience. | JavaScript, Browser APIs | Extensions Portal |
+=======
+| 📈 **TradingView Bot** | An automated algorithmic trading bot that intercepts TradingView webhooks to execute real-time, low-latency market orders. | Python, Trading APIs | Private Repo |
+| 🛡️ **Facebook Security Tooling** | A Red Team automation script highlighting session hijacking concepts by dynamically handling browser cookies for parallel API executions. | JavaScript, Automation | [GitHub](https://github.com/aminulzisan/Facebook-Mass-Report) |
+| 🛍️ **MyShop E-Commerce** | A complete e-commerce platform featuring secure real-time inventory tracking, Steadfast API payment integrations, and order scaling. | Node.js, MongoDB | [Live Site](https://ecom.remoud.com) |
+| 💱 **OroSwap** | A decentralized finance (DeFi) trading bot optimized for executing rapid, secure token swaps on the blockchain. | JavaScript, Web3 | Private Repo |
+>>>>>>> Stashed changes
 
 ---
 
