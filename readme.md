@@ -75,11 +75,20 @@ I'm a dedicated web developer with over **5+ years of experience** specializing 
 
 ---
 
-<!-- 
-Note: To display your 5000+ private commits and true Top Languages (JS), 
-you will need to deploy your own GitHub Stats API instance with a Personal Access Token. 
-Public APIs cannot read your private repositories! 
--->
+### 📊 My Developer Data Metrics
+
+<div align="center">
+  <img src="https://github-readme-stats.zeeploy.xyz/api?username=aminulzisan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true" alt="Aminul's GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak.zeeploy.xyz/?user=aminulzisan&theme=tokyonight&hide_border=true&background=0D1117" alt="Aminul's Streak" width="48%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.zeeploy.xyz/api/top-langs/?username=aminulzisan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="Top Languages" width="60%"/>
+</div>
+
+<br>
 
 <h2 align="center">Profile Visitors</h2>
 <p align="center">
