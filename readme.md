@@ -1,0 +1,100 @@
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=30&pause=1000&color=4F46E5&center=true&vCenter=true&width=600&lines=Hi,+I'm+Aminul+Zisan+👋;Web+Developer+%26+Security+Specialist+🛡️;Specialized+in+API+Penetration+Testing+🔍;Let's+build+secure+web+applications+🚀" alt="Typing SVG" />
+</div>
+
+<h3 align="center">💻 Full-Stack Web Developer | 🛡️ Cybersecurity & API Security Specialist</h3>
+
+<div align="center">
+  <a href="https://www.aminulzisan.xyz"><img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://github.com/aminulzisan"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github"/></a>
+  <a href="https://linkedin.com/in/aminul-zisan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://twitter.com/aminulzisan"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4F46E5&height=100&section=header&fontSize=90" />
+</div>
+
+---
+
+### 🚀 About Me
+
+I'm a dedicated web developer with over **5+ years of experience** specializing in both front-end and back-end environments. What sets me apart is my extensive knowledge in **API Penetration Testing**! I don't just build functional and sleek applications—I ensure they are battle-hardened and secure from the ground up; mitigating injection risks, authentication weaknesses, and authorization flaws.
+
+*   🔭 I’m currently leading a team as a **Lead Developer & Security Analyst** (2023 - Present)
+*   🌱 I’m actively pursuing my **Certified Ethical Hacker** certification (EC-Council).
+*   📚 Recently completed: **Google Cybersecurity** Professional Certificate & **AWS Certified Cloud Practitioner**
+*   💬 Ask me about: **Node.js, Docker, API Security, Cloud Architecture**.
+*   ⚡ Fun fact: I am ranked in the **Top 10%** on TryHackMe for Cybersecurity Training.
+
+---
+
+### 🛠️ Core Arsenal & Tech Stack
+
+<div align="center">
+  <h4>Languages & Frameworks</h4>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,python,go&theme=dark" />
+  </a>
+</div>
+
+<div align="center">
+  <h4>DevOps, Cloud & Database</h4>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,aws,mongodb,postgres,linux&theme=dark" />
+  </a>
+</div>
+
+<div align="center">
+  <h4>Security & Pentesting</h4>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bash,kali,postman,nginx&theme=dark" />
+  </a>
+</div>
+
+<br>
+
+---
+
+### 📂 Featured Projects
+
+| Project | Summary | Stack | Link |
+| --- | --- | --- | --- |
+| 📧 **[Remoud.com](https://remoud.com)** | A fast PaaS cloud hosting platform similar to Zeeploy, featuring a robust built-in business mail server with custom domain-to-email capabilities. | Node.js, Docker, Mail Server, Cloud | [Live Site](https://remoud.com) |
+| 🌩️ **[Zeeploy.xyz](https://zeeploy.xyz)** | A modern PaaS cloud hosting platform that simplifies app deployment and auto-scaling via Kubernetes. | Node.js, Docker, Kubernetes, Cloud | [GitHub](https://github.com/aminulzisan) / [Live Site](https://zeeploy.xyz) |
+| 🤖 **Zsan AI** | A smart AI chatbot that communicates contextually and dynamically generates images based on your ideas. | HTML/CSS, JS, Express.js | Live Demo |
+| 🧩 **Browser Extensions Showcase** | A curated collection of powerful privacy-focused extensions enhancing productivity and web experience. | JavaScript, Browser APIs | Extensions Portal |
+
+---
+
+### 🛡️ Action Plan Workflow
+*How I turn an idea into a secure platform:*
+> **🔍 Discovery** ➔ **📐 Strategy & Design** ➔ **💻 Secure Development** ➔ **🚀 Audit & Launch**
+
+---
+
+### 📊 My Developer Data Metrics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aminulzisan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="Aminul's GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aminulzisan&theme=tokyonight&hide_border=true&background=0D1117" alt="Aminul's Streak" width="48%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminulzisan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="Top Languages" width="60%"/>
+</div>
+
+<br>
+
+<h2 align="center">Profile Visitors</h2>
+<p align="center">
+  <img align="center" alt="Profile Views" src="https://profile-counter.glitch.me/aminulzisan/count.svg" />
+</p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4F46E5&height=100&section=footer" />
+</div>
