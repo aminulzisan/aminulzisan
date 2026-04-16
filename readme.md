@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=25&pause=1000&color=4F46E5&center=true&vCenter=true&width=800&lines=Hi,+I'm+Aminul+Zisan+👋;Web+Developer+%26+Security+Specialist+🛡️;Specialized+in+API+Penetration+Testing+🔍;Let's+build+secure+web+apps+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=25&pause=1000&color=4F46E5&center=true&vCenter=true&width=520&lines=Hi,+I'm+Aminul+Zisan+👋;Web+Developer+%26+Security+Pro+🛡️;API+Penetration+Testing+Expert+🔍;Let's+build+secure+web+apps+🚀" alt="Typing SVG" />
 </div>
 
 <h3 align="center">💻 Full-Stack Web Developer | 🛡️ Cybersecurity & API Security Specialist</h3>
