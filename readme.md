@@ -22,14 +22,14 @@
 ### 📊 My Developer Data Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.zeeploy.xyz/api?username=aminulzisan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true" alt="Aminul's GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.remoud.com/api?username=aminulzisan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true" alt="Aminul's GitHub Stats" width="48%"/>
   <img src="https://github-readme-streak.remoud.com/?user=aminulzisan&theme=tokyonight&hide_border=true&background=0D1117" alt="Aminul's Streak" width="48%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.zeeploy.xyz/api/top-langs/?username=aminulzisan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="Top Languages" width="60%"/>
+  <img src="https://github-readme-stats.remoud.com/api/top-langs/?username=aminulzisan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="Top Languages" width="60%"/>
 </div>
 
 <br>
